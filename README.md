@@ -23,7 +23,7 @@ const getBodyInnerHtml = require('vamtiger-get-body-inner-html').default;
 
 [VAMTIGER Get Body Inner HTML](https://github.com/vamtiger-project/vamtiger-get-body-inner-html) can then be used to test whether a defined input string contains a _HTML_ **Title**:
 ```javascript
-import getBodyInnerHtml from 'vamtiger-get-body-inner-html';
+const getBodyInnerHtml = require('vamtiger-get-body-inner-html').default;
 
 const html = `
 <!DOCTYPE html>

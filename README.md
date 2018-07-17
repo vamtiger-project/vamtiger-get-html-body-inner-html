@@ -1,4 +1,4 @@
-# VAMTIGER Bash
+# VAMTIGER Get Body Inner HTML
 [VAMTIGER Get Body Inner HTML](https://github.com/vamtiger-project/vamtiger-get-body-inner-html) will return the title for defined HTML document text
 
 ## Installation
